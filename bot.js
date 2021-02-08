@@ -1,3 +1,4 @@
+// This implements my bot
 var v = require('voca');
 
 function answerQuery(query) {
@@ -53,3 +54,4 @@ module.exports = {
   answerQuery: answerQuery, 
   isPermitted: isPermitted
 }
+
