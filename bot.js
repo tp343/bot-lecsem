@@ -1,3 +1,4 @@
+// This file implements my great bot
 var v = require('voca');
 
 function answerQuery(query) {
