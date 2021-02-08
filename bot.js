@@ -1,4 +1,4 @@
-// This file implements my great bot
+// This file implements my awesome bot
 var v = require('voca');
 
 function answerQuery(query) {
